@@ -1,5 +1,5 @@
 ### Hi there 👋
--🔭 I’m currently working on Edge Compute
+- 🔭 I’m currently working on Edge Compute
 - 🌱 I’m currently learning machine learning
 
 <!--
